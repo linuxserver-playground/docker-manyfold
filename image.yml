@@ -13,6 +13,9 @@ upstream:
   notes:
     type: github_release
     repo: manyfold3d/manyfold
+  sponsor:
+  - name: Manyfold (Open Collective)
+    url: https://opencollective.com/manyfold
 
 release:
   branch: main
